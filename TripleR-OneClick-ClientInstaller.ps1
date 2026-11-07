@@ -26,8 +26,8 @@ if (-not $isAdmin) {
 # ==============================================================================
 # OWNER SETTINGS (Put your GitHub Fork Username here before sharing with friends!)
 # ==============================================================================
-$OwnerGitHubUser = "Triple-R"   # <-- Change to YOUR GitHub username (e.g. "TripleRAudio")
-$OwnerRepoName   = "ArtTuneDB"
+$OwnerGitHubUser = "Triple-R-AU"   # <-- Change to YOUR GitHub username (e.g. "TripleRAudio")
+$OwnerRepoName   = "Triple-R-Audio-Art-Clone"
 $OwnerBranch     = "main"
 # ==============================================================================
 

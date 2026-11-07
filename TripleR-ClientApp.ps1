@@ -28,8 +28,8 @@ if (-not $isAdmin) {
 # ==============================================================================
 # CLOUD REPOSITORY CONFIGURATION
 # ==============================================================================
-$OwnerGitHubUser = "Triple-R"
-$OwnerRepoName   = "ArtTuneDB"
+$OwnerGitHubUser = "Triple-R-AU"
+$OwnerRepoName   = "Triple-R-Audio-Art-Clone"
 $OwnerBranch     = "main"
 # ==============================================================================
 
