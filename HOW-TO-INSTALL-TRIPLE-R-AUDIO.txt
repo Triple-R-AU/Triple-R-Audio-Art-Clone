@@ -1,0 +1,79 @@
+================================================================================
+                    TRIPLE R AUDIO - QUICK START & INSTALL GUIDE
+================================================================================
+
+Welcome to Triple R Audio! Follow the simple steps below to install the full
+audio engine, pre-loaded headset EQs, and desktop control panel in one click.
+
+
+--------------------------------------------------------------------------------
+STEP 1: HOW TO OPEN WINDOWS POWERSHELL AS ADMINISTRATOR
+--------------------------------------------------------------------------------
+1. Press the [Windows Key] on your keyboard (or click the Start button).
+2. Type: PowerShell
+3. Look for "Windows PowerShell" in the search results.
+   (IMPORTANT: Right-click "Windows PowerShell" and click "Run as Administrator").
+4. Click "Yes" on the Windows popup screen.
+
+
+--------------------------------------------------------------------------------
+STEP 2: COPY & PASTE THE 1-CLICK INSTALL COMMAND
+--------------------------------------------------------------------------------
+Copy the command below, right-click inside the blue PowerShell window to paste
+it, and press [ENTER]:
+
+irm https://www.google.com/search?q=https://raw.githubusercontent.com/YOUR\_GITHUB\_USERNAME/ArtTuneDB/main/TripleR-OneClick-ClientInstaller.ps1 | iex
+
+
+*(Note: If the installer menu pops up for the first-time driver setup, press [1]
+and hit Enter to install the audio drivers, then restart your PC when prompted).*
+
+
+--------------------------------------------------------------------------------
+STEP 3: HOW TO USE THE TRIPLE R AUDIO DESKTOP APP
+--------------------------------------------------------------------------------
+Once installed, you will see a new "Triple R Audio" icon on your Desktop.
+
+1. Double-click "Triple R Audio" on your Desktop to open the control panel.
+2. Under "1. SELECT YOUR HEADSET / IEM", pick your headset or IEM from the
+   dropdown menu (KZ ZAR, Pulse Elite, Astro A50/A10, Logitech Pro X/G935,
+   Tangzu Fudu, KZ EDX Pro/Lite, QKZ AK6, Razer BlackShark V2 X, etc.).
+3. Choose your Sound Profile (e.g., "Warzone / CoD Footsteps Priority").
+4. Make sure "LOUDNESS EQUALIZATION" is checked and the Release Time slider is
+   set to "2 - Short (Max Footsteps)".
+5. Click the red "APPLY" button at the bottom right!
+   - Your audio updates live in real time while your game is open!
+
+
+--------------------------------------------------------------------------------
+STEP 4: HOW TO SWITCH BETWEEN "GAME TUNE" AND "NORMAL AUDIO"
+--------------------------------------------------------------------------------
+Want to watch YouTube, listen to Spotify, or play a casual game without the
+heavy footstep compression?
+
+* Look at the top-right bar of the Triple R Audio app and click the green
+  "TUNE: ON (COMPETITIVE)" button.
+* It will switch to "TUNE: OFF (NORMAL AUDIO)" and immediately give you clean,
+  untouched stereo sound. Click it again anytime you jump back into a match!
+
+
+--------------------------------------------------------------------------------
+STEP 5: WINDOWS & IN-GAME AUDIO SETTINGS CHECKLIST
+--------------------------------------------------------------------------------
+To make sure your game sends full directional surround sound into the engine:
+
+1. Windows Sound Panel:
+   - Click the "Open Sounds" button at the top of the Triple R Audio app.
+   - Make sure "Art Tune" (or "Hi-Fi Cable Input") is set as your Default Output.
+   - Click "Configure" (bottom-left) and make sure "7.1 Surround" is selected.
+
+2. Call of Duty (Warzone / Black Ops 6 / Black Ops 7):
+   - Audio Mix: Headphones (or Treyarch Mix)
+   - Speaker Output: Windows Default
+   - Enhanced Headphone Mode: OFF
+
+3. Automatic Updates:
+   - You never need to manually download updates! Every time you open Triple R
+     Audio, it automatically syncs the newest game tunes and EQ curves in the
+     background.
+================================================================================
